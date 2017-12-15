@@ -20,15 +20,15 @@ Agriculture
 * `U.S. Department of Agriculture's Nutrient Database <https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/>`_
 
 
-Biology
+生物学
 -------
 
-* `1000 Genomes <http://www.1000genomes.org/data>`_
-* `American Gut (Microbiome Project) <https://github.com/biocore/American-Gut>`_
+* `1000个基因组 <http://www.1000genomes.org/data>`_
+* `美国肠道（微生物项目） <https://github.com/biocore/American-Gut>`_
 * `Broad Bioimage Benchmark Collection (BBBC) <https://www.broadinstitute.org/bbbc>`_
-* `Broad Cancer Cell Line Encyclopedia (CCLE) <http://www.broadinstitute.org/ccle/home>`_
-* `Cell Image Library <http://www.cellimagelibrary.org>`_
-* `Complete Genomics Public Data <http://www.completegenomics.com/public-data/69-genomes/>`_
+* `广泛癌细胞系百科全书（CCLE） <http://www.broadinstitute.org/ccle/home>`_
+* `细胞图像库 <http://www.cellimagelibrary.org>`_
+* `完整的基因组学公共数据 <http://www.completegenomics.com/public-data/69-genomes/>`_
 * `EBI ArrayExpress <http://www.ebi.ac.uk/arrayexpress/>`_
 * `EBI Protein Data Bank in Europe <http://www.ebi.ac.uk/pdbe/emdb/index.html/>`_
 * `Electron Microscopy Pilot Image Archive (EMPIAR) <http://www.ebi.ac.uk/pdbe/emdb/empiar/>`_
@@ -68,7 +68,7 @@ Biology
 * `Universal Protein Resource (UnitProt) <http://www.uniprot.org/downloads>`_
 
 
-Climate/Weather
+气候/天气
 ---------------
 
 * `Actuaries Climate Index <http://actuariesclimateindex.org/data/>`_
@@ -90,7 +90,7 @@ Climate/Weather
 * `WU Historical Weather Worldwide <https://www.wunderground.com/history/index.html>`_
 
 
-Complex Networks
+复杂的网络
 ----------------
 
 * `AMiner Citation Network Dataset <http://aminer.org/citation>`_
@@ -115,7 +115,7 @@ Complex Networks
 * `WSU Graph Database <http://www.eecs.wsu.edu/mgd/gdb.html>`_
 
 
-Computer Networks
+计算机网络
 -----------------
 
 * `3.5B Web Pages from CommonCrawl 2012 <http://www.bigdatanews.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us>`_
@@ -132,7 +132,7 @@ Computer Networks
 * `UCSD Network Telescope, IPv4 /8 net <http://www.caida.org/projects/network_telescope/>`_
 
 
-Data Challenges
+数据挑战
 ---------------
 
 * `Bruteforce Database <https://github.com/duyetdev/bruteforce-database>`_
@@ -151,7 +151,7 @@ Data Challenges
 * `Yelp Dataset Challenge <http://www.yelp.com/dataset_challenge>`_
 
 
-Earth Science
+地球科学
 -------------
 
 * `AQUASTAT - Global water resources and uses <http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en>`_
@@ -164,36 +164,36 @@ Earth Science
 * `USGS Earthquake Archives <http://earthquake.usgs.gov/earthquakes/search/>`_
 
 
-Economics
+经济学
 ---------
 
-* `American Economic Association (AEA) <https://www.aeaweb.org/resources/data>`_
-* `EconData from UMD <http://inforumweb.umd.edu/econdata/econdata.html>`_
-* `Economic Freedom of the World Data <http://www.freetheworld.com/datasets_efw.html>`_
-* `Historical MacroEconomc Statistics <http://www.historicalstatistics.org/>`_
-* `International Economics Database <http://widukind.cepremap.org/>`_ and `various data tools <https://github.com/Widukind>`_
-* `International Trade Statistics <http://www.econostatistics.co.za/>`_
-* `Internet Product Code Database <http://www.upcdatabase.com/>`_
-* `Joint External Debt Data Hub <http://www.jedh.org/>`_
-* `Jon Haveman International Trade Data Links <http://www.macalester.edu/research/economics/PAGE/HAVEMAN/Trade.Resources/TradeData.html>`_
-* `OpenCorporates Database of Companies in the World <https://opencorporates.com/>`_
-* `Our World in Data <http://ourworldindata.org/>`_
-* `SciencesPo World Trade Gravity Datasets <http://econ.sciences-po.fr/thierry-mayer/data>`_
-* `The Atlas of Economic Complexity <http://atlas.cid.harvard.edu>`_
-* `The Center for International Data <http://cid.econ.ucdavis.edu>`_
-* `The Observatory of Economic Complexity <http://atlas.media.mit.edu/en/>`_
-* `UN Commodity Trade Statistics <http://comtrade.un.org/db/>`_
-* `UN Human Development Reports <http://hdr.undp.org/en>`_
+* `美国经济协会（AEA） <https://www.aeaweb.org/resources/data>`_
+* `UMD的经济数据 <http://inforumweb.umd.edu/econdata/econdata.html>`_
+* `世界数据的经济自由 <http://www.freetheworld.com/datasets_efw.html>`_
+* `历史宏观经济统计 <http://www.historicalstatistics.org/>`_
+* `国际经济数据库和各种数据工具 <http://widukind.cepremap.org/>`_ and `various data tools <https://github.com/Widukind>`_
+* `国际贸易统计 <http://www.econostatistics.co.za/>`_
+* `Internet产品代码数据库 <http://www.upcdatabase.com/>`_
+* `联合外债数据中心 <http://www.jedh.org/>`_
+* `Jon Haveman国际贸易数据链接 <http://www.macalester.edu/research/economics/PAGE/HAVEMAN/Trade.Resources/TradeData.html>`_
+* `OpenCorporates公司数据库在世界上 <https://opencorporates.com/>`_
+* `我们的数据世界 <http://ourworldindata.org/>`_
+* `SciencesPo世界贸易重力数据集 <http://econ.sciences-po.fr/thierry-mayer/data>`_
+* `经济复杂性地图集 <http://atlas.cid.harvard.edu>`_
+* `国际数据中心 <http://cid.econ.ucdavis.edu>`_
+* `经济复杂性观察站 <http://atlas.media.mit.edu/en/>`_
+* `联合国商品贸易统计 <http://comtrade.un.org/db/>`_
+* `联合国人类发展报告 <http://hdr.undp.org/en>`_
 
 
-Education
+教育
 ------------
 
 * `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_
 * `Student Data from Free Code Camp <http://academictorrents.com/details/030b10dad0846b5aecc3905692890fb02404adbf>`_
 
 
-Energy
+能源
 ------
 
 * `AMPds <http://ampds.org/>`_
@@ -212,19 +212,19 @@ Energy
 * `WHITED <http://nilmworkshop.org/2016/proceedings/Poster_ID18.pdf>`_
 
 
-Finance
+金融
 -------
 
-* `CBOE Futures Exchange <http://cfe.cboe.com/Data/>`_
-* `Google Finance <https://www.google.com/finance>`_
-* `Google Trends <http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0>`_
-* `NASDAQ <https://data.nasdaq.com/>`_
-* `NYSE Market Data <ftp://ftp.nyxdata.com>`_ (see FTP link on `RAW <https://raw.githubusercontent.com/caesar0301/awesome-public-datasets/master/README.rst>`_)
+* `CBOE期货交易所 <http://cfe.cboe.com/Data/>`_
+* `Google财经 <https://www.google.com/finance>`_
+* `Google趋势 <http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0>`_
+* `纳斯达克 <https://data.nasdaq.com/>`_
+* `约证券交易所市场数据 <ftp://ftp.nyxdata.com>`_ (see FTP link on `RAW <https://raw.githubusercontent.com/caesar0301/awesome-public-datasets/master/README.rst>`_)
 * `OANDA <http://www.oanda.com/>`_
-* `OSU Financial data <http://fisher.osu.edu/fin/fdf/osudata.htm>`_
+* `OSU财务数据 <http://fisher.osu.edu/fin/fdf/osudata.htm>`_
 * `Quandl <https://www.quandl.com/>`_
-* `St Louis Federal <https://research.stlouisfed.org/fred2/>`_
-* `Yahoo Finance <http://finance.yahoo.com/>`_
+* `圣路易斯联邦 <https://research.stlouisfed.org/fred2/>`_
+* `雅虎财经 <http://finance.yahoo.com/>`_
 
 
 GIS
@@ -255,7 +255,7 @@ GIS
 * `World countries in multiple formats <https://github.com/mledoze/countries>`_
 
 
-Government
+政府
 ----------
 
 * `A list of cities and countries contributed by community <https://github.com/caesar0301/awesome-public-datasets/blob/master/Government.rst>`_
@@ -263,7 +263,7 @@ Government
 * `OpenDataSoft's list of 1,600 open data <https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/>`_
 
 
-Healthcare
+卫生保健
 ----------
 
 * `EHDP Large Health Data Sets <http://www.ehdp.com/vitalnet/datasets.htm>`_
@@ -281,7 +281,7 @@ Healthcare
 * `World Health Organization Global Health Observatory <http://www.who.int/gho/en/>`_
 
 
-Image Processing
+图像处理
 ----------------
 
 * `10k US Adult Faces Database <http://wilmabainbridge.com/facememorability2.html>`_
@@ -309,32 +309,32 @@ Image Processing
 * `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_
 
 
-Machine Learning
+机器学习
 ----------------
 
-* `Context-aware data sets from five domains <https://github.com/irecsys/CARSKit/tree/master/context-aware_data_sets>`_
-* `Delve Datasets for classification and regression (Univ. of Toronto) <http://www.cs.toronto.edu/~delve/data/datasets.html>`_
-* `Discogs Monthly Data <http://data.discogs.com/>`_
-* `eBay Online Auctions (2012) <http://www.modelingonlineauctions.com/datasets>`_
-* `IMDb Database <http://www.imdb.com/interfaces>`_
-* `Keel Repository for classification, regression and time series <http://sci2s.ugr.es/keel/datasets.php>`_
+* `来自五个域的上下文感知数据集 <https://github.com/irecsys/CARSKit/tree/master/context-aware_data_sets>`_
+* `Delve Datasets进行分类和回归（多伦多大学） <http://www.cs.toronto.edu/~delve/data/datasets.html>`_
+* `Discogs每月数据 <http://data.discogs.com/>`_
+* `易趣在线拍卖（2012） <http://www.modelingonlineauctions.com/datasets>`_
+* `IMDb数据库 <http://www.imdb.com/interfaces>`_
+* `Keel Repository用于分类，回归和时间序列 <http://sci2s.ugr.es/keel/datasets.php>`_
 * `Labeled Faces in the Wild (LFW) <http://vis-www.cs.umass.edu/lfw/>`_
-* `Lending Club Loan Data <https://www.lendingclub.com/info/download-data.action>`_
-* `Machine Learning Data Set Repository <http://mldata.org/>`_
-* `Free Music Archive <https://github.com/mdeff/fma>`_
-* `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_
-* `More Song Datasets <http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets>`_
-* `MovieLens Data Sets <http://grouplens.org/datasets/movielens/>`_
-* `New Yorker caption contest ratings <https://github.com/nextml/caption-contest-data>`_
+* `贷款俱乐部贷款数据 <https://www.lendingclub.com/info/download-data.action>`_
+* `机器学习数据集储存库 <http://mldata.org/>`_
+* `免费音乐档案 <https://github.com/mdeff/fma>`_
+* `百万歌曲数据集 <http://labrosa.ee.columbia.edu/millionsong/>`_
+* `更多的歌曲数据集 <http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets>`_
+* `MovieLens数据集 <http://grouplens.org/datasets/movielens/>`_
+* `N纽约人字幕比赛评分 <https://github.com/nextml/caption-contest-data>`_
 * `RDataMining - "R and Data Mining" ebook data <http://www.rdatamining.com/data>`_
 * `Registered Meteorites on Earth <http://publichealthintelligence.org/content/registered-meteorites-has-impacted-earth-visualized>`_
-* `Restaurants Health Score Data in San Francisco <http://missionlocal.org/san-francisco-restaurant-health-inspections/>`_
-* `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_
+* `旧金山的餐馆健康评分数据 <http://missionlocal.org/san-francisco-restaurant-health-inspections/>`_
+* `UCI机器学习库 <http://archive.ics.uci.edu/ml/>`_
 * `Yahoo! Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_
 * `Youtube 8m <https://research.google.com/youtube8m/download.html>`_
 
 
-Museums
+博物馆
 -------
 
 * `Canada Science and Technology Museums Corporation's Open Data <http://techno-science.ca/en/data.php>`_
@@ -346,7 +346,7 @@ Museums
 * `The Getty vocabularies <http://vocab.getty.edu>`_
 
 
-Natural Language
+自然语言
 ----------------
 
 * `POS/NER/Chunk annotated data <https://github.com/aritter/twitter_nlp/tree/master/data/annotated>`_
@@ -381,7 +381,7 @@ Natural Language
 * `WordNet databases and tools <http://wordnet.princeton.edu/wordnet/download/>`_
 
 
-Neuroscience
+神经科学
 -------------
 
 * `Allen Institute Datasets <http://www.brain-map.org/>`_
@@ -400,7 +400,7 @@ Neuroscience
 * `Study Forrest <http://studyforrest.org>`_
 
 
-Physics
+物理
 -------
 
 * `CERN Open Data Portal <http://opendata.cern.ch/>`_
@@ -410,13 +410,13 @@ Physics
 * `Sloan Digital Sky Survey (SDSS) - Mapping the Universe <http://www.sdss.org/>`_
 
 
-Psychology/Cognition
+心理学/认知
 --------------------
 
 * `OSU Cognitive Modeling Repository Datasets <http://www.cmr.osu.edu/browse/datasets>`_
 
 
-Public Domains
+公共域名
 --------------
 
 * `Amazon <http://aws.amazon.com/datasets/>`_
@@ -445,7 +445,7 @@ Public Domains
 * `Yahoo Webscope <http://webscope.sandbox.yahoo.com/catalog.php>`_
 
 
-Search Engines
+搜索引擎
 --------------
 
 * `Academic Torrents of data sharing from UMB <http://academictorrents.com/>`_
@@ -461,7 +461,7 @@ Search Engines
 * `Zenodo - An open dependable home for the long-tail of science <https://zenodo.org/collection/datasets>`_
 
 
-Social Networks
+社交网络
 ---------------
 
 * `72 hours #gamergate Twitter Scrape <http://waxy.org/random/misc/gamergate_tweets.csv>`_
@@ -491,7 +491,7 @@ Social Networks
 * `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_
 
 
-Social Sciences
+社会科学
 ---------------
 
 * `ACLED (Armed Conflict Location & Event Data Project) <http://www.acleddata.com/>`_
@@ -537,12 +537,12 @@ Social Sciences
 * `WorldPop project - Worldwide human population distributions <http://www.worldpop.org.uk/data/get_data/>`_
 
 
-Software
+软件
 --------
 
 * `FLOSSmole data about free, libre, and open source software development <http://flossdata.syr.edu/data/>`_
 
-Sports
+体育
 ------
 
 * `Betfair Historical Exchange Data <http://data.betfair.com/>`_
@@ -555,7 +555,7 @@ Sports
 * `Tennis database of rankings, results, and stats for ATP <https://github.com/JeffSackmann/tennis_atp>`_, `WTA <https://github.com/JeffSackmann/tennis_wta>`_, `Grand Slams <https://github.com/JeffSackmann/tennis_slam_pointbypoint>`_ and `Match Charting Project <https://github.com/JeffSackmann/tennis_MatchChartingProject>`_
 
 
-Time Series
+时间序列
 -----------
 
 * `Databanks International Cross National Time Series Data Archive <http://www.cntsdata.com>`_
@@ -565,7 +565,7 @@ Time Series
 * `UC Riverside Time Series Dataset <http://www.cs.ucr.edu/~eamonn/time_series_data/>`_
 
 
-Transportation
+运输
 --------------
 
 * `Airlines OD Data 1987-2008 <http://stat-computing.org/dataexpo/2009/the-data.html>`_
@@ -592,7 +592,7 @@ Transportation
 * `U.S. Freight Analysis Framework since 2007 <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_
 
 
-Complementary Collections
+补充收藏
 -------------------------
 
 * `Data Packaged Core Datasets <https://github.com/datasets/>`_
@@ -609,7 +609,7 @@ Complementary Collections
 其他数据源(fromfield)
 -------------------------
 
-* AWS: `亚马逊跨科学云平台数据 <https://github.com/caesar0301/awesome-public-datasets>`_
+* AWS: `亚马逊跨科学云平台数据 <https://amazonaws-china.com/cn/datasets>`_
 * UCI: `加州大学欧文分校开放的经典数据集 <http://archive.ics.uci.edu/ml/datasets.html>`_
 * 国家数据: `这个数据库信息内容涵盖范围全面详实 <http://data.stats.gov.cn/>`_
 * 国家统计局: `这个网站的信息是比较宏观的 <http://www.stats.gov.cn/>`_
