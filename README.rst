@@ -604,3 +604,20 @@ Complementary Collections
 * Quora: `Where can I find large datasets open to the public? <http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public>`_
 * RS.io: `100+ Interesting Data Sets for Statistics <http://rs.io/100-interesting-data-sets-for-statistics/>`_
 * StaTrek: `Leveraging open data to understand urban lives <http://xiaming.me/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/>`_
+
+
+其他数据源(fromfield)
+-------------------------
+
+* AWS: `亚马逊跨科学云平台数据 <https://github.com/caesar0301/awesome-public-datasets>`_
+* UCI: `加州大学欧文分校开放的经典数据集 <http://archive.ics.uci.edu/ml/datasets.html>`_
+* 国家数据: `这个数据库信息内容涵盖范围全面详实 <http://data.stats.gov.cn/>`_
+* 国家统计局: `这个网站的信息是比较宏观的 <http://www.stats.gov.cn/>`_
+* 地图数据: `OSGeo中国中心 <http://www.osgeo.cn/>`_
+* 地图数据: `ArcGIS <https://hub.arcgis.com/pages/open-data>`_
+* OSM世界地图: `OSM <http://www.openstreetmap.org>`_
+
+
+数据采集
+-------------------------
+* 八爪鱼: `几乎免费 <http://www.bazhuayu.com/>`_
